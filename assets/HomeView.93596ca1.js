@@ -1,0 +1,1 @@
+import{o as t,a6 as o,b as e,w as a,V as s,d as c,g as n,b7 as r}from"./index.07df6abb.js";const d={id:"admin-home"},_=n("h1",{class:"text-center"},"\u9019\u88E1\u662Fadmin\u7684\u9996\u9801",-1);function i(m,f){return t(),o("div",d,[e(s,null,{default:a(()=>[e(c,{cols:"12"},{default:a(()=>[_]),_:1})]),_:1})])}const l={};var u=r(l,[["render",i]]);export{u as default};
